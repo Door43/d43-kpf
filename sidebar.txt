@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kpf:home|Door43 (kpf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kpf|d43-kpf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kpf/archive/master.zip|d43-kpf.zip]]
+
+**Recent Changes**
+{{changes>ns = kpf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kpf|Ethnologue data]]
+
